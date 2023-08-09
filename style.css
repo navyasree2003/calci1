@@ -1,0 +1,39 @@
+body{
+    margin: 10%;
+    background-image: url('bg2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+button
+{
+    margin:40%;
+    height:50px;
+    width:55px;
+    margin:15px;
+    text-align: center;
+    font-size: large;
+    padding: auto;
+    border-radius:20%;
+    background-color:burlywood;
+    border:solid;
+
+
+}
+input{
+    width:345px;
+    height:50px;
+    background-color:burlywood;
+   
+}
+   .container{
+    border:solid;
+    width: 350px;
+    margin-right: 20%;
+   }
+   h1{
+    margin-left: 60px;
+   }
+   button:hover{
+    transform:scale(1.2);
+    color:brown;
+   }
